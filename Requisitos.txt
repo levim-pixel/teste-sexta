@@ -1,0 +1,3 @@
+HU_M_001: Eu, como munícipe, desejo poder consultar o salário do prefeito para
+ comparar com o salários dos prefeitos de outros municípios.
+HU_M_002: ...
